@@ -1,4 +1,6 @@
-"Cannon"
+Game : "Cannon"
+Author : Parag Gupta <paraggupta1993@gmail.com>
+
 
 A 2-D game made in OpenGl as part of "Graphics" course in my undergraduation second year.
 
@@ -27,3 +29,5 @@ Level Increment :
 
 1. Level increases whenever we hit the cloud.
 2. The number of purple balls increases on stage.
+
+
