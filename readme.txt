@@ -1,5 +1,7 @@
 "Cannon"
 
+A 2-D game made in OpenGl as part of "Graphics" course in my undergraduation second year.
+
 objective: To hit the cloud with our black balls, and save the cannon from clouds 'purple' balls.
 
 Controls : 
